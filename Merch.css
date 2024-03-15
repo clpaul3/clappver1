@@ -1,0 +1,265 @@
+body {
+    background-color: rgb(0, 151, 0); 
+}
+
+.settingsgear {
+    position: absolute; 
+    width: 160px; 
+    top: 30px; 
+    left: 30px;
+}
+
+.menubar {
+    position: absolute; 
+    width: 150px; 
+    left: 800px; 
+    top: 35px; 
+
+}
+
+h1 {
+    position: absolute; 
+    font-size: 130px; 
+    left: 310px; 
+    top: 90px; 
+    font-family:Arial, Helvetica, sans-serif; 
+}
+
+p1 {
+    position: absolute; 
+    font-size: 47px; 
+    text-align: center; 
+    top: 430px; 
+}
+
+#one {
+    position: absolute; 
+    top: 840px; 
+    width: 1000px; 
+    background-color:black; 
+    height: 10px;
+}
+
+#clupossible {
+    position: absolute; 
+    top: 900px; 
+    left: 40px; 
+    width: 300px; 
+}
+
+h2 {
+    position: absolute; 
+    top: 850px; 
+    left: 460px; 
+    font-size: 80px; 
+
+}
+
+p2 {
+    position: absolute; 
+    top: 1050px; 
+    font-size: 30px; 
+    white-space: nowrap; 
+    left: 380px; 
+}
+
+#clupossiblebutton {
+    position: absolute; 
+    top: 1170px; 
+    left: 440px; 
+    width: 400px; 
+    height: 50px; 
+    font-size: 40px; 
+    background-color: green; 
+
+}
+
+h3 {
+    position: absolute; 
+    top: 1310px; 
+    left: 480px; 
+    font-size: 80px; 
+}
+
+#reclutch {
+    position: absolute; 
+    top: 1370px; 
+    left: 40px; 
+    width: 300px; 
+}
+
+p3 {
+    position: absolute; 
+    top: 1530px; 
+    font-size: 30px; 
+    white-space: nowrap; 
+    left: 380px; 
+}
+
+#reclutchbutton {
+    position: absolute; 
+    top: 1650px; 
+    left: 440px; 
+    width: 400px; 
+    height: 50px; 
+    font-size: 40px; 
+    background-color: green; 
+}
+
+#wedontrage {
+    position: absolute; 
+    top: 1840px; 
+    left: 40px; 
+    width: 300px;
+}
+
+h4 {
+    position: absolute; 
+    top: 1730px; 
+    left: 430px; 
+    font-size: 80px; 
+}
+
+p4 {
+    position: absolute; 
+    top: 2000px; 
+    font-size: 30px; 
+    white-space: nowrap; 
+    left: 470px; 
+}
+
+#wedontrage1 {
+    position: absolute; 
+    top: 2100px; 
+    left: 440px; 
+    width: 400px; 
+    height: 50px; 
+    font-size: 40px; 
+    background-color: green; 
+}
+
+#cldontgiveup {
+    position: absolute; 
+    top: 2280px; 
+    left: 40px; 
+    width: 300px;
+}
+
+h5 {
+    position: absolute; 
+    top: 2160px; 
+    font-size: 70px; 
+    left: 390px; 
+}
+
+#clnever {
+    position: absolute; 
+    top: 2500px; 
+    left: 440px; 
+    width: 400px; 
+    height: 50px; 
+    font-size: 40px; 
+    background-color: green; 
+}
+
+p5 {
+    position: absolute; 
+    top: 2400px; 
+    font-size: 30px; 
+    white-space: nowrap; 
+    left: 490px; 
+}
+
+#acmbutton {
+    position: absolute; 
+    top: 2940px; 
+    left: 440px; 
+    width: 400px; 
+    height: 50px; 
+    font-size: 40px; 
+    background-color: green; 
+}
+
+#acmmerch {
+    position: absolute; 
+    top: 2680px; 
+    left: 40px; 
+    width: 300px;
+}
+
+h6 {
+    position: absolute; 
+    top: 2530px; 
+    font-size: 70px; 
+    left: 550px; 
+}
+
+p6 {
+    position: absolute; 
+    top: 2840px; 
+    font-size: 30px; 
+    white-space: nowrap; 
+    left: 450px; 
+}
+
+
+#menulist {
+    background-color: green; 
+    position: fixed; 
+    width: 1000px; 
+    height: 7000px; 
+    font-size: 160px; 
+    overflow: auto; 
+    display: none; 
+    z-index: 9999 
+
+    a {
+        color: black; 
+        text-decoration: none; 
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        position: absolute; 
+        left: 90px; 
+    }
+}
+
+p23 {
+    white-space: nowrap; 
+    font-size: 250px; 
+    position: absolute; 
+    top: 130px; 
+    left: 70px; 
+}
+
+p24 {
+    position: absolute; 
+    top: 280px; 
+    font-size: 250px; 
+    left: 70px; 
+}
+
+p25 {
+    position: absolute; 
+    top: 470px; 
+    white-space: nowrap; 
+    font-size: 140px; 
+    left: 60px; 
+}
+
+p26 {
+    position: absolute; 
+    top: 700px; 
+    left: 40px; 
+}
+
+#x {
+    position: absolute; 
+    width: 200px; 
+    top: -90px; 
+}
+
+#cllogo2 {
+    position: absolute; 
+    top: 1530px;
+    width: 700px;  
+    left: 140px; 
+}

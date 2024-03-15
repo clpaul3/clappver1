@@ -1,0 +1,145 @@
+body {
+    background-color: rgb(0, 151, 0); 
+}
+
+.settingsgear {
+    position: absolute; 
+    width: 160px; 
+    top: 30px; 
+    left: 30px;
+}
+
+.menubar {
+    position: absolute; 
+    width: 150px; 
+    left: 800px; 
+    top: 35px; 
+
+}
+
+h1 {
+    position: absolute; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    top: 140px; 
+    left: 330px; 
+    font-size: 130px; 
+}
+
+#menulist {
+    background-color: rgb(0, 151, 0); 
+    width: 1000px; 
+    height: 1700px; 
+    z-index: 9999; 
+    position: fixed; 
+    top: 20px; 
+    left: -10px; 
+    font-size: 160px; 
+    font-family:Impact, Haettenschweiler, sans-serif; 
+    overflow: auto; 
+    display: none; 
+    color: black; 
+
+}
+
+p11 {
+    position: absolute; 
+    left: 325px; 
+    color: black; 
+}
+
+p12 {
+    position: absolute; 
+    left: 240px; 
+    top: 220px; 
+    color: black; 
+
+}
+p13 {
+    position: absolute; 
+    left: 330px; 
+    top: 440px;
+    color: black;  
+}
+
+p14 {
+    position: absolute; 
+    left: 310px; 
+    top: 670px; 
+    color: black; 
+}
+
+p15{
+    position: absolute; 
+    white-space: nowrap; 
+    font-size: 100px; 
+    top: 900px; 
+    left: 96px; 
+    color: black; 
+}
+
+p16 {
+    position: absolute; 
+    top: 1050px; 
+    left: 280px; 
+    color: black; 
+
+}
+
+p17 {
+    position: absolute; 
+    top: 1270px; 
+    left: 167px; 
+    color: black; 
+}
+
+p18 {
+    position: absolute; 
+    top: 1520px; 
+    left: 210px; 
+    color: black; 
+}
+
+p19 {
+    position: absolute; 
+    top: 1740px;
+    left: 140px; 
+    color: black; 
+}
+
+p20 {
+    position: absolute; 
+    top: 1960px; 
+    left: 190px; 
+    color: black; 
+}
+
+p21 {
+    font-size: 111px; 
+    position: absolute; 
+    top: 2190px; 
+    left: 20px; 
+    color: black; 
+}
+
+p22 {
+    position: absolute; 
+    top: 2350px; 
+    left: 420px; 
+    color: black; 
+}
+
+#cllogo2 {
+    position: absolute; 
+    top: 2600px; 
+    left: 340px; 
+
+}
+#x {
+    position: absolute; 
+    top: -130px; 
+    width: 220px; 
+    left: 10px; 
+
+}
+
+

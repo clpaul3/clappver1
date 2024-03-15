@@ -1,0 +1,511 @@
+body {
+    background-color: rgb(0, 151, 0); 
+}
+
+.settingsgear {
+    position: absolute; 
+    width: 160px; 
+    top: 30px; 
+    left: 30px;
+}
+
+.menubar {
+    position: absolute; 
+    width: 150px; 
+    left: 800px; 
+    top: 35px; 
+
+}
+
+h1 {
+    position: absolute; 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    top: 170px; 
+    left: 270px; 
+    font-size: 89px; 
+}
+
+p1 {
+    position: absolute; 
+    top: 490px; 
+    font-size: 60px; 
+    font-family: 'Lato', sans-serif; 
+    left: 90px; 
+    white-space: nowrap; 
+    
+}
+
+#paul {
+    position: absolute; 
+    width: 300px; 
+    top: 660px; 
+    left: 30px; 
+}
+
+#chris {
+    position: absolute; 
+    width: 300px; 
+    top: 660px; 
+    left: 350px; 
+}
+
+#tristan {
+    position: absolute; 
+    width: 230px; 
+    top: 660px; 
+    left: 700px; 
+}
+
+#jesregular {
+    position: absolute; 
+    width: 230px; 
+    top: 1190px; 
+    left: 10px; 
+}
+
+#brittney {
+    position: absolute; 
+    width: 230px; 
+    top: 1190px; 
+    left: 250px; 
+}
+
+#dak {
+    position: absolute; 
+    width: 230px; 
+    top: 1190px; 
+    left: 490px; 
+}
+
+#msmartin {
+    position: absolute; 
+    width: 230px; 
+    top: 1190px; 
+    left: 740px; 
+}
+
+#lawrence {
+    position: absolute; 
+    width: 230px; 
+    top: 1700px; 
+    left: 20px; 
+}
+
+#auto {
+    position: absolute; 
+    width: 230px; 
+    top: 1700px; 
+    left: 280px; 
+}
+
+#issac {
+    position: absolute; 
+    width: 230px; 
+    top: 1700px; 
+    left: 530px; 
+}
+
+#jess {
+    position: absolute; 
+    width: 230px; 
+    top: 1700px; 
+    left: 770px; 
+}
+
+#josue {
+    position: absolute; 
+    width: 230px; 
+    top: 2060px; 
+    left: 10px; 
+}
+
+#yamilth {
+    position: absolute; 
+    width: 230px; 
+    top: 2050px; 
+    left: 250px; 
+}
+
+#anthony {
+    position: absolute; 
+    width: 230px; 
+    top: 2050px; 
+    left: 490px; 
+}
+
+#juda {
+    position: absolute; 
+    width: 230px; 
+    top: 2050px; 
+    left: 730px; 
+}
+
+#kimberly {
+    position: absolute; 
+    width: 230px; 
+    top: 2400px; 
+    left: 5px; 
+}
+
+#kimberlysfriend {
+    position: absolute; 
+    width: 230px; 
+    top: 2400px; 
+    left: 250px; 
+}
+
+#cadence {
+    position: absolute; 
+    width: 230px; 
+    top: 2400px; 
+    left: 500px; 
+}
+
+#braylinregu {
+    position: absolute; 
+    width: 230px; 
+    top: 2400px; 
+    left: 745px; 
+}
+
+#kayleeregu {
+    position: absolute; 
+    width: 230px; 
+    top: 2740px; 
+    left: 10px; 
+}
+
+#friend1 {
+    position: absolute; 
+    width: 230px; 
+    top: 2740px;
+    left: 250px; 
+}
+
+#mrlawrence {
+    position: absolute; 
+    width: 230px; 
+    top: 2740px; 
+    left: 500px; 
+}
+
+#mrjean {
+    position: absolute; 
+    width: 230px; 
+    top: 2740px; 
+    left: 745px; 
+}
+
+#sarah {
+    position: absolute; 
+    width: 230px; 
+    top: 3090px; 
+    left: 10px; 
+}
+
+#adam1 {
+    position: absolute; 
+    width: 230px; 
+    top: 3090px; 
+    left: 250px; 
+}
+
+#adam2 {
+    position: absolute; 
+    width: 230px; 
+    top: 3090px; 
+    left: 500px;
+}
+
+#stephanie {
+    position: absolute; 
+    width: 230px; 
+    top: 3230px; 
+    left: 745px;
+}
+
+#tyisha {
+    position: absolute; 
+    width: 230px; 
+    top: 3590px; 
+    left: 10px;
+}
+
+#alanis {
+    position: absolute; 
+    width: 230px; 
+    top: 3590px; 
+    left: 250px;
+}
+
+#dude {
+    position: absolute; 
+    width: 230px; 
+    top: 3590px; 
+    left: 490px;
+}
+
+#dude2 {
+    position: absolute; 
+    width: 230px; 
+    top: 3590px; 
+    left: 745px;
+}
+
+#aliza {
+    position: absolute; 
+    width: 230px; 
+    top: 4100px; 
+    left: 10px;
+}
+
+#amber {
+    position: absolute; 
+    width: 230px; 
+    top: 4100px; 
+    left: 250px;
+}
+
+#msdaniela {
+    position: absolute; 
+    width: 230px; 
+    top: 4100px; 
+    left: 500px;
+}
+
+#recheadclisthebest {
+    position: absolute; 
+    width: 230px; 
+    top: 4100px; 
+    left: 745px;
+}
+
+#recheadlovecl {
+    position: absolute; 
+    width: 230px; 
+    top: 4600px; 
+    left: 10px; 
+}
+
+#recheadmsgrace {
+    position: absolute; 
+    width: 250px; 
+    top: 4625px; 
+    left: 255px; 
+}
+
+#msgraceclisthebest {
+    position: absolute; 
+    width: 250px; 
+    top: 4625px; 
+    left: 518px; 
+}
+
+#msgracecldomain {
+    position: absolute; 
+    width: 250px; 
+    top: 4625px; 
+    left: 745px; 
+}
+
+#msdanielaandrechead {
+    position: absolute; 
+    top: 5100px; 
+    left: 10px; 
+    width: 230px; 
+}
+
+#mia {
+    position: absolute; 
+    top: 5100px; 
+    left: 250px; 
+    width: 230px; 
+}
+
+#olivia {
+    position: absolute; 
+    top: 5100px; 
+    left: 500px; 
+    width: 230px; 
+}
+
+#reggie {
+    position: absolute; 
+    top: 5140px; 
+    left: 745px; 
+    width: 230px; 
+}
+
+#ada {
+    position: absolute; 
+    top: 5630px; 
+    left: 10px; 
+    width: 230px; 
+}
+
+#adasupporter {
+    position: absolute; 
+    top: 5630px; 
+    left: 250px; 
+    width: 230px; 
+}
+
+#racheal {
+    position: absolute; 
+    top: 5630px; 
+    left: 500px; 
+    width: 230px; 
+}
+
+#austin {
+    position: absolute; 
+    top: 5630px; 
+    left: 745px; 
+    width: 230px; 
+}
+
+#angela {
+    position: absolute; 
+    top: 6020px; 
+    left:10px; 
+    width: 230px; 
+
+}
+
+#holly {
+    position: absolute; 
+    top: 6020px; 
+    left:250px; 
+    width: 230px; 
+}
+
+#karenandkatora {
+    position: absolute; 
+    top: 6020px; 
+    left:500px; 
+    width: 230px; 
+}
+
+#fexie {
+    position: absolute; 
+    top: 6020px; 
+    left:745px; 
+    width: 230px; 
+}
+
+#ralphyandkayla {
+    position: absolute; 
+    top: 6470px; 
+    left:10px; 
+    width: 230px; 
+}
+
+#kayleesupporter {
+    position: absolute; 
+    top: 6470px; 
+    left:250px; 
+    width: 230px; 
+}
+
+#alaandmrwoobles {
+    position: absolute; 
+    top: 6470px; 
+    left:500px; 
+    width: 230px; 
+}
+
+#amberclplus {
+    position: absolute; 
+    top: 6470px; 
+    left:745px; 
+    width: 230px; 
+}
+
+#clem {
+    position: absolute; 
+    top: 6940px; 
+    left:10px; 
+    width: 230px; 
+}
+
+#braylindiscord {
+    position: absolute; 
+    top: 6940px; 
+    left:250px; 
+    width: 230px; 
+}
+
+#sarahlina2 {
+    position: absolute; 
+    top: 6940px; 
+    left:500px; 
+    width: 230px; 
+}
+
+#paulsupportscl {
+    position: absolute; 
+    top: 6980px; 
+    left:745px; 
+    width: 230px; 
+}
+
+#menulist {
+    background-color: green; 
+    position: fixed; 
+    width: 1000px; 
+    height: 7000px; 
+    font-size: 160px; 
+    overflow: auto; 
+    display: none; 
+    z-index: 9999 
+
+    a {
+        color: black; 
+        text-decoration: none; 
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+        position: absolute; 
+        left: 90px; 
+    }
+}
+
+p11 {
+    white-space: nowrap; 
+    font-size: 250px; 
+    position: absolute; 
+    top: 130px; 
+    left: 70px; 
+}
+
+p14 {
+    position: absolute; 
+    top: 280px; 
+    font-size: 250px; 
+    left: 70px; 
+}
+
+p15 {
+    position: absolute; 
+    top: 470px; 
+    white-space: nowrap; 
+    font-size: 140px; 
+    left: 60px; 
+}
+
+p19 {
+    position: absolute; 
+    top: 700px; 
+    left: 40px; 
+}
+
+#x {
+    position: absolute; 
+    width: 200px; 
+    top: -90px; 
+}
+
+#cllogo2 {
+    position: absolute; 
+    top: 1530px;
+    width: 700px;  
+    left: 140px; 
+}
